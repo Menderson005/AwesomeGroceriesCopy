@@ -7,3 +7,6 @@
 5. Milk
 6. Oreos
 7. Chips
+8. Apples
+9. Peanut Butter
+10. Strawberry Jelly 
